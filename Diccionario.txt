@@ -1,0 +1,4 @@
+casa:house
+coche:car
+perro:dog
+gato:cat
